@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**brianaung/brianaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello there! :wave: 
+`git config --global user.name = "Brian"`
+## About me
+<ul>
+  <li> 🎒 currently a compsci student at university of melbourne </li>
+  <li> 💻 i use Java, C and Python (many more to come 💪) </li>
+  <li> 📈 learning more about CS algorithms and data processing </li>
+  <li> a lowkey weeb (PS. watch Gintama pls 👍) </li>
+  <li> 🎮 god tier at every single video games i play (i wish) </li>
+</ul> 
+<p align="center"> <img src="https://user-images.githubusercontent.com/76241135/110472451-7d453400-8131-11eb-9373-37a5e62921c3.jpg"> </p>

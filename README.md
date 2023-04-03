@@ -1,4 +1,5 @@
-### Hello there! :wave: 
-`git config --global user.name = "Brian Aung"`
-
-![](https://i.imgur.com/7pyvr3k.jpg)
+<p align=center>
+    <samp>
+        i feel like i'm <b>robinson crusoe</b>
+    </samp>
+</p>
